@@ -17,6 +17,7 @@ public class Solution {
         String suffix = "", prefix = "";
         int i = 1;
 
+        //Pull the integers out of input string to create suffix from said integers
         for(char part : theParts){
             try{
                 int tempDigit = Integer.parseInt(Character.toString(part));
@@ -33,13 +34,17 @@ public class Solution {
             suffix = suffix + tempDigit;
         }
 
+        //Create combinations from suffix and add them to theCombinations
         Solution.permutations(prefix, suffix, theCombinations);
 
+        //Convert the Strings in theCombinations to ints and add them to theCombinationsAsInt
         for(String tempCombination : theCombinations){
             int tempCombinationAsInt = Integer.parseInt(tempCombination);
             theCombinationsAsInts.add(tempCombinationAsInt);
         }
+        //Sort theCombinationsAsInt into descending order
         Collections.sort(theCombinationsAsInts, Collections.reverseOrder());
+
         System.out.println(theCombinationsAsInts);
         return theCombinationsAsInts.toString();
     }

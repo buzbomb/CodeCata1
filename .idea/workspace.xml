@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9dc04f7-466b-4ded-8265-ed82a148280d" name="Default Changelist" comment="" />
+    <list default="true" id="d9dc04f7-466b-4ded-8265-ed82a148280d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../David.Innes-L1L2_challenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../David.Innes-L1L2_challenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../David.Innes-L1L2_challenge/src/main/java/com/and/test/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../David.Innes-L1L2_challenge/src/main/java/com/and/test/Solution.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +22,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1SFRM37VR0nxvLWAdpi3bQ9kHe8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553189272008" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../David.Innes-L1L2_challenge" />
@@ -67,7 +71,19 @@
       <option name="presentableId" value="Default" />
       <updated>1552046978714</updated>
     </task>
+    <task id="LOCAL-00001" summary="Code cata example">
+      <created>1571172667122</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571172667122</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Code cata example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code cata example" />
   </component>
   <component name="masterDetails">
     <states>
